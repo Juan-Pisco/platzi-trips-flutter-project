@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart'; //Tiene todo el material design de flutter
 import 'package:flutter/services.dart';
-import 'package:platzi_trips/home_trips.dart';
-import 'platzi_trips_cupertino.dart';
-import 'platzi_trips.dart';
+import 'lib/home_trips.dart';
+import 'lib/platzi_trips_cupertino.dart';
+import 'lib/platzi_trips.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'floating_action_button_green.dart';
 
 class CardImage extends StatelessWidget {
-  String pathImage = "lib/assets/images/river.jpeg";
+  String pathImage = "assets/images/river.jpeg";
 
   CardImage(this.pathImage);
 
